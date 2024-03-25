@@ -3,6 +3,7 @@ This is my solution for Exercise 2:
 ## Virtual environment creation
 You are suggested to run the ETL in an virtual environment and you could start a virtual encironment with the following command:
 ```
+cd Ex2
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
