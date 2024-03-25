@@ -10,4 +10,6 @@ I've done 2/4 exercise, please refer to
   - Answer to Question 3
 
 # [Ex4](Ex4) for exercise 4
-- 
+- Dag code is attached
+- Please refer to [Ex4/readme.md](Ex4/readme.md) for:
+  - Dag design and explain
